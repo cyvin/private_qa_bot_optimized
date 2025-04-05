@@ -1,0 +1,12 @@
+langchain
+langchain-community
+chromadb
+gradio
+openai
+huggingface-hub
+sentence-transformers
+PyPDF2
+docx2txt
+requests
+tqdm
+tabulate
