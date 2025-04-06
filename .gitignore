@@ -5,3 +5,6 @@ __pycache__/
 # Ignore environment files
 .env
 venv/
+
+# Ignore Doc files
+docs/
